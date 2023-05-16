@@ -1,0 +1,6 @@
+"Login.Welcome.Title" = "Welcome to ProjectX";
+"Login.UsernameField.Title" = "Username";
+"Login.PasswordField.Title" = "Password";
+"Login.LoginButton.Title" = "Login";
+"Login.ForgotPasswordTextButton.Title" =  "Forgot your password?";
+"Login.CreateAccountTextButtton.Title" = "Create an account";
